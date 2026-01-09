@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MySnakeProject
 {
-    internal struct Vector2
+    public struct Vector2
     {
         public int X;
         public int Y;
@@ -24,14 +24,5 @@ namespace MySnakeProject
 
             return (X == position.X && Y == position.Y);
         }
-
-       
-    }
-    internal enum DirectionOfMovement
-    {
-        Up,
-        Down,
-        Left,
-        Right
     }
 }

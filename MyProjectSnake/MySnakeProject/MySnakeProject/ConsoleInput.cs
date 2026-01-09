@@ -12,7 +12,6 @@ namespace MySnakeProject
         public event Action MoveDown;
         public event Action MoveLeft;
         public event Action MoveRight;
-        public event Action Esc;
         public void Update()
         {
             ConsoleKeyInfo keyInfo;

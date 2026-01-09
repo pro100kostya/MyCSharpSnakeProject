@@ -10,9 +10,8 @@ namespace MySnakeProject
     {
         private IMoveInput _input;
         private Directions _currentDirection;
-        public PlaybleUnitSnake(string name, Vector2 startPosition, IMoveInput input, Directions startDirection = Directions.Right)
+        public PlaybleUnitSnake(Vector2 startPosition, IMoveInput input, Directions startDirection = Directions.Right) 
         {
-            Name = name;
             CurrentPosition = startPosition;
             _currentDirection = startDirection;
 
