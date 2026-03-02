@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\bin\Debug\net8.0\MySnakeProject.exe
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\bin\Debug\net8.0\MySnakeProject.deps.json
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\bin\Debug\net8.0\MySnakeProject.runtimeconfig.json
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\bin\Debug\net8.0\MySnakeProject.dll
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\bin\Debug\net8.0\MySnakeProject.pdb
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.AssemblyInfo.cs
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.dll
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\refint\MySnakeProject.dll
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.pdb
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\MySnakeProject.genruntimeconfig.cache
+C:\Users\user\Desktop\MyProjectSnake\MySnakeProject\MySnakeProject\obj\Debug\net8.0\ref\MySnakeProject.dll
